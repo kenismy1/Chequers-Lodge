@@ -1,0 +1,6 @@
+{
+  "name": "Chequers Lodge",
+  "description": "Chequers Lodge Hotel in Mile 11. Explore comfortable rooms, guest amenities, 103 guest reviews, directions via Plus Code GMVC+2R, and direct booking inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
